@@ -134,8 +134,9 @@ The following web page will be rendered and the notebook is ready to accept your
 
 The Python statements are entered in each cell. To execute the Python statements within each cell, press both the `SHIFT` and `ENTER` keys simultaneously. The result will be displayed right below the cell, as shown in the diagram below.
 
-
 ![](figs/lab1_fig6.png)
+
+> To see keyboard shortcuts for the Jupyter Notebook, press the `h` key.
 
 By default, the new notebook will be stored in a file named `Untitled.ipynb`. You can rename the file by clicking on File and Rename menu option at the top, as shown in the diagram below.
 
