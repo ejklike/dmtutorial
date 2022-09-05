@@ -5,6 +5,8 @@ The purpose of this tutorial is to help you get started installing and using Pyt
 
 ## 0. Why Python?
 
+![](figs/lab1_python.png)
+
 Although there are many programming languages available for implementing data mining algorithms, we choose Python for several reasons. 
 
 1. First, it has emerged as one of the **most popular** programming languages for data science in recent years. 
