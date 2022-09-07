@@ -34,7 +34,7 @@ After installing the base package from the link provided, launch the Anaconda co
 
 This section provides some examples on how to write and execute your Python program. 
 
-![](figs/lab1_interpreter.png)
+![](figs/interpreter.png)
 
 Python is generally considered an interpreted language, which means its program cannot be directly executed by your machine. Instead, it requires another program, called an **interpreter**, to read and execute the Python program. To invoke the interpreter, type `python` on the Anaconda command prompt:
 
