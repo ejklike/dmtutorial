@@ -26,7 +26,9 @@ First, download the Python base installation package from https://www.anaconda.c
 > ![](figs/lab1_fig0.png)
 
 > [FAQ] Q. 설치 경로 설정시 아래와 같은 오류창이 떠요.
+>
 > ![](figs/install-kouser.png)
+> 
 > A. 설치 경로에 한글이 포함되면 안됩니다. 설치 경로에 한글이 포함되어있다면 제거해주세요. 만약 본인이 윈도우즈 운영체제를 사용하고 있으며, 사용자 계정명이 한글인 경우에는, 설치 권한을 `Just Me (recommended)`가 아닌 `All Users (administrator privileges)`로 선택하시고, `C:\Anaconda3` 경로에 설치해보세요.
 
 After installing the base package from the link provided, launch the Anaconda command prompt and the following interface will be displayed:
