@@ -3,10 +3,12 @@
 This is the materials for the `Business Analytics` course in CAU.
 
 - Tutorial 0: Install Anaconda Python 3.X
-- Tutorial 1: Python Basics ([ipynb](https://raw.githubusercontent.com/ejklike/dmtutorial/main/tutorial1-python-basics.ipynb))
-- Tutorial 2: Numpy ([ipynb](https://raw.githubusercontent.com/ejklike/dmtutorial/main/tutorial2.1-numpy.ipynb)) and Pandas ([ipynb](https://raw.githubusercontent.com/ejklike/dmtutorial/main/tutorial2.2-pandas.ipynb))
-- Tutorial 3: Data Exploration ([ipynb](https://raw.githubusercontent.com/ejklike/dmtutorial/main/tutorial3-data-exploration.ipynb))
-- Tutorial 4: Data Preprocessing (ipynb)
+- Tutorial 1: Python Basics
+- Tutorial 2: Numpy and Pandas
+- Tutorial 3: Data Exploration
+- Tutorial 4: Classification
+- Tutorial 5: Regression
+- Tutorial 6: Clustering
 
 
 ### References
