@@ -9,6 +9,8 @@ This is the materials for the `Business Analytics` course in CAU.
 - Tutorial 4: Classification (Assignment 2)
 - Tutorial 5: Regression (Assignment 3)
 - Tutorial 6: Clustering (Assignment 4)
+- Tutorial 7: Web Crawling (Assignment 5)
+- Tutorial 8: Text Mining (Assignment 6)
 
 
 ### References
