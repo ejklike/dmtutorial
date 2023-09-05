@@ -2,15 +2,10 @@
 
 This is the materials for the `Business Analytics` course in CAU.
 
-- Tutorial 0: Install Anaconda Python 3.X
-- Tutorial 1: Python Basics
-- Tutorial 2: Numpy and Pandas
-- Tutorial 3: Data Exploration (Assignment 1)
-- Tutorial 4: Classification (Assignment 2)
-- Tutorial 5: Regression (Assignment 3)
-- Tutorial 6: Clustering (Assignment 4)
-- Tutorial 7: Web Crawling (Assignment 5)
-- Tutorial 8: Text Mining (Assignment 6)
+- Tutorial 0: Install Python
+- Tutorial 1: Data Exploration (Assignment 1)
+- Tutorial 2: Data Handling (Assignment 2)
+- ...
 
 
 ### References
